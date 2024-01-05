@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Khalied Maturino\\OneDrive - Universitas Andalas\\TugasKul\\Semester 3\\Pemograman Berorientasi Objek\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ]
+}

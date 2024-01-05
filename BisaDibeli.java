@@ -1,0 +1,4 @@
+interface BisaDibeli {
+    double getHarga();
+
+}
