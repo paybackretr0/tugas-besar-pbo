@@ -1,3 +1,5 @@
+package src;
+
 class Sepatu {
     private String idSepatu;
     private String merekSepatu;

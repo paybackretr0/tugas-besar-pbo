@@ -1,3 +1,5 @@
+package src;
+
 public class Faktur extends Sepatu implements BisaDibeli {
     public Faktur[] faktur;
     private String noFaktur;
