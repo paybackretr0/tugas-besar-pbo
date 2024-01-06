@@ -76,6 +76,8 @@ public class View {
       System.out.println("Data sepatu masih kosong. Tidak ada data yang bisa dihapus.");
       return;
     }
+    System.out.println(Config.tampilkanData());
+    System.out.println();
     System.out.println("\n:::DELETE DATA Sepatu :::");
     System.out.print("Masukkan ID Sepatu : ");
     String idSepatu = input.nextLine();
@@ -99,6 +101,8 @@ public class View {
       System.out.println("Data Sepatu masih kosong. Tidak ada data Sepatu yang bisa diubah.");
       return;
     }
+    System.out.println(Config.tampilkanData());
+    System.out.println();
     System.out.println("\n::: UPDATE DATA Sepatu :::");
     System.out.print("Masukkan idSepatu : ");
     String idSepatu = scanner.nextLine();
