@@ -41,7 +41,7 @@ public class App {
                             + "6. Transaksi Pembelian Sepatu\n"
                             + "7. Riwayat Transaksi\n"
                             + "0. Exit\n"
-                            + "Pilih[1/2/3/4/5/6/0] : ");
+                            + "Pilih[1/2/3/4/5/6/7/0] : ");
 
                     String pilihan = scanner.nextLine().trim();
 
